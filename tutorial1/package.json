@@ -1,0 +1,14 @@
+{
+  "name": "tutorial1",
+  "version": "1.0.0",
+  "description": "http://www.rabbitmq.com/tutorials/tutorial-one-javascript.html",
+  "main": "send.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andreas Grossbauer",
+  "license": "ISC",
+  "dependencies": {
+    "amqplib": "^0.5.2"
+  }
+}
